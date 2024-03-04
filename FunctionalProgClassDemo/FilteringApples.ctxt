@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FilteringApples
+comment0.text=\r\n\ Demo\ of\ functional\ programming.\r\n\r\n\ @author\ Team\ Java\r\n\ @version\ Feb\ 27\ 2023\r\n
+comment1.params=
+comment1.target=FilteringApples()
+comment1.text=\r\n\ Create\ an\ AppleFilter.\r\n
+comment2.params=
+comment2.target=java.util.List\ filterGreenApples()
+comment2.text=\r\n\ We\ have\ this\ 'apples'\ ArrayList.\ Filter\ out\ Apples\ that\ are\ Green\ and\ add\ them\ to\ the\ result\ ArrayList.\ \ \r\n
+comment3.params=appleList
+comment3.target=void\ printList(java.util.List)
+comment3.text=\r\n\ Prints\ a\ given\ list\ of\ apples\ on\ output.\ Nothing\ fancy...yet.\r\n\ \r\n\ @param\ appleList\ List\ of\ apples\ that\ you\ want\ to\ print.\r\n
+numComments=4
